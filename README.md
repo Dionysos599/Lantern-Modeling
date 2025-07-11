@@ -8,5 +8,5 @@ Original version: https://github.com/nanli9/CGProject.github.io
 <li>Harper Li</li>
 
 ## Result
-https://dionysos599.github.io/CG_Project
+[https://dionysos599.github.io/CG_Project](https://dionysos599.github.io/Lantern-Modeling/)  
 Note: It is possible that the 'rotate' or 'lightMove' buttons may not work on the deployment of Github, but local operations are not affected.
